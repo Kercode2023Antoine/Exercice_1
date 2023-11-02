@@ -1,11 +1,11 @@
 # Bievenue chez Kercode !
-![](.\images\kercode.jpg)
+<img src="./images/kercode.jpg">
 
 ### Introduction
 
 Ceci est un petit texte d'introduction. On passe à la ligne suivante (sans sauter de ligne) en terminant celle-ci  
 par 2 espaces avant de frapper la touche "entrer".  
-Pour démarrer un nouveau paragraphe, il faut faire 2 "retour chariot" (2 fois "entrer")
+Pour démarrer un nouveau paragraphe, il faut faire 2 "reetour chariot" (2 fois "entrer")
 
 ### Travail à distance
 
@@ -13,7 +13,7 @@ Compte tenu des conditions climatiques, nous allons travailler à la maison en r
 points dans la pronlongation de ce qui été vu en cours.
 
 #### La redaction au format Markdown
-<html><p style="float:right"> <img src="./images/markdown.png" > </p></html>
+<p style="float:right"><img src="./images/markdown.png" > </p>
 Cet exercice a pour objectif de reproduire le plus fidèlement possible ce  
 texte avec:
 
