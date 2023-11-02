@@ -1,5 +1,5 @@
 # Bievenue chez Kercode !
-![](\images\kercode.jpg)
+![](..\images\kercode.jpg)
 
 ### Introduction
 
