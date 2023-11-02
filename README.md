@@ -13,7 +13,7 @@ Compte tenu des conditions climatiques, nous allons travailler à la maison en r
 points dans la pronlongation de ce qui été vu en cours.
 
 #### La redaction au format Markdown
-<p style="float:right"><img src="./images/markdown.png" > </p>
+<p style="float:right"> <img src="./images/markdown.png" > </p>
 Cet exercice a pour objectif de reproduire le plus fidèlement possible ce  
 texte avec:
 
