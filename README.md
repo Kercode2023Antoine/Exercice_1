@@ -1,5 +1,5 @@
 # Bievenue chez Kercode !
-<img src="./images/kercode.jpg">
+![](images/kercode.jpg)
 
 ### Introduction
 
@@ -13,7 +13,7 @@ Compte tenu des conditions climatiques, nous allons travailler à la maison en r
 points dans la pronlongation de ce qui été vu en cours.
 
 #### La redaction au format Markdown
-<img style="float:right" src="./images/markdown.png" >
+<img style="float:right" src="./images/markdown.png" > 
 Cet exercice a pour objectif de reproduire le plus fidèlement possible ce  
 texte avec:
 
