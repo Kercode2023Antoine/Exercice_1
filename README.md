@@ -1,4 +1,4 @@
-# Bievenue chez Kercode !
+# Bienvenue chez Kercode !
 ![](images/kercode.jpg)
 
 ### Introduction
