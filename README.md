@@ -1,5 +1,5 @@
 # Bienvenue chez Kercode !
-![](images/kercode.jpg)
+![Alt](images/kercode.jpg "Kercode")
 
 ### Introduction
 
