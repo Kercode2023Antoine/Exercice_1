@@ -9,7 +9,7 @@ Pour démarrer un nouveau paragraphe, il faut faire 2 "retour chariot" (2 fois "
 
 ### Travail à distance
 
-Compte tenu des conditions climatiques, nous allons travailler à la maison en réalisant un TD en qui abordera 3  
+Compte tenu des conditions climatiques, nous allons travailler à la maison en réalisant un TD qui abordera 3  
 points dans la pronlongation de ce qui été vu en cours.
 
 #### La redaction au format Markdown
